@@ -1,5 +1,5 @@
 import javax.swing.*; // นำเข้าไลบรารีสำหรับสร้าง GUI
-import java.awt.*;
+
 public class Container { // ประกาศคลาสหลักชื่อ Container
 
     public static void main(String[] args) {
